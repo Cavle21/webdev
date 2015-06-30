@@ -12,6 +12,8 @@ The exception class is designed to catch any errors associated with the $_FILES[
 
 Gallery.class.php displays the pictures.
 
+pagination class will take care of paging the gallery when pictures in gallery are larger than the page.
+
 no live option yet. Will be implementing in the near future.
 
 
